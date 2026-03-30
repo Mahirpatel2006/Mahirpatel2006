@@ -8,9 +8,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mahirpatel2006.Mahirpatel2006&"  />
 </div>
 
-###
 
-<img align="right" height="60" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif"  />
+<img align="right" height="70" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif"  />
 
 ###
 
@@ -89,6 +88,14 @@
 
 ###
 
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahirpatel2006/Mahirpatel2006/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahirpatel2006/Mahirpatel2006/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mahirpatel2006/Mahirpatel2006/output/pacman-contribution-graph.svg">
+</picture>
+ 
+###
 ## 👋 Hello World!!
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
@@ -105,9 +112,7 @@ I'm currently a student who enjoys contributing to open source and exploring the
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahirpatel2006&theme=dracula&hide_border=false" width="100%" alt="contribution graph" />
-</div>
+
 
 ###
 
