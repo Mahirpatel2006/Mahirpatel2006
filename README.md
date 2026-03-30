@@ -100,17 +100,22 @@
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
-I'm **Mahir Patel**, a passionate Software Developer and AI/ML enthusiast based in Ahmedabad, India. I love building things that live on the internet — from sleek full-stack web apps to intelligent systems powered by machine learning. My stack spans across Python, JavaScript/TypeScript, React, Next.js, FastAPI, and a whole lot more.
+I'm **Mahir Patel**, a Software Developer and AI/ML enthusiast.  
+I like building real-world projects — not just for learning, but to actually solve problems.
 
-I'm currently a student who enjoys contributing to open source and exploring the intersection of software engineering and artificial intelligence. Whether it's crafting clean UIs, designing scalable backends, or experimenting with computer vision and data pipelines — I'm always up for a challenge.
+I work mainly with **Python, JavaScript/TypeScript, React, Next.js, and FastAPI**.  
+Right now, I'm exploring AI/ML deeply, especially working on things like deep learning , ML models, and smart applications.
+
+I enjoy both frontend and backend development — creating clean UI and building strong systems.  
+Always trying to improve, learn faster, and build better.
+
+---
 
 ### 🔭 What I'm currently working on
 
-- 🤖 Building AI-powered applications and exploring LLM integrations
-- 🌐 Contributing to open source projects across web and ML domains
-- 📚 Deepening my knowledge in system design, distributed systems, and deep learning
-
-###
+- 🤖 Developing AI/ML projects   
+- 🌐 Building full-stack applications with modern tech  
+- 📚 Learning system design, backend architecture, and advanced ML concepts  
 
 
 
