@@ -1,7 +1,5 @@
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" />
-  <h1>Hey! I'm Mahir</h1>
-  <h3>Software Developer | AI/ML Enthusiast</h3>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&text=Hey!%20I'm%20Mahir&fontSize=61&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&desc=Software%20Developer%20%7C%20AI/ML&descSize=23&descAlign=50&descAlignY=80&textBg=false&color=gradient" />
 </div>
 
 ###
@@ -107,11 +105,9 @@ I'm currently a student who enjoys contributing to open source and exploring the
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahirpatel2006/Mahirpatel2006/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahirpatel2006/Mahirpatel2006/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mahirpatel2006/Mahirpatel2006/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahirpatel2006&theme=dracula&hide_border=false" width="100%" alt="contribution graph" />
+</div>
 
 ###
 
@@ -119,9 +115,5 @@ I'm currently a student who enjoys contributing to open source and exploring the
   <img src="https://github-readme-stats.vercel.app/api?username=Mahirpatel2006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahirpatel2006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Mahirpatel2006/Mahirpatel2006/output/snake.svg" alt="Snake animation" />
 
 ###
